@@ -1,0 +1,1 @@
+This is my project for a directed studies alongside Dr. Nathan Insel. We worked together to apply markov chains towards collecting motion data from Octodon Degus, hence the name of the project. As is, this software is capable of segmenting regions of interest (ROI) and can **not** currently collect motion data.
